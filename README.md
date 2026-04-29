@@ -107,6 +107,7 @@ Easy integration
 For access, inquiries, or trial requests:
 
 👉 Telegram: @TheUnknowngods
+https://t.me/TheUnknowngods
 
 > ❗ We will never DM you first — only respond to direct inquiries.
 
