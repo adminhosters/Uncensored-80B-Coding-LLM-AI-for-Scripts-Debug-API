@@ -1,6 +1,3 @@
-Here’s your updated README.md with your Telegram contact added cleanly and professionally:
-
-
 ---
 
 🚀 Uncensored AI — 80B Uncensored Coding LLM
