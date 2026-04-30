@@ -1,6 +1,6 @@
 ---
 
-![WormGPT X Banner](https://raw.githubusercontent.com/adminhosters/Uncensored-80B-Coding-LLM-AI-for-Scripts-Debug-API/refs/heads/main/file_000000008c30722fac0ec2a65a6791ca.png)
+![WormGPT X Banner](https://raw.githubusercontent.com/adminhosters/WormGPT-X-v4.3--80B-LLM-HYPERDRIVE/refs/heads/main/IMG-20260430-WA0010.jpg)
 *Dark Intelligence. Unrestricted Power.*
 
 # **WormGPT X (v4.3-80B-LLM-HYPERDRIVE)**
