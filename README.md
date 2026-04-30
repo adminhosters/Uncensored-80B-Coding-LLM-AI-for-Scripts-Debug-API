@@ -68,11 +68,11 @@ WormGPT X is the **most advanced uncensored LLM** ever deployed for **offensive 
 
 | **Plan**               | **Price**       | **Key Benefits**                          |
 |------------------------|-----------------|-------------------------------------------|
-| **Monthly Elite**      | **$499**        | Full access, priority updates             |
-| **Quarterly Dominance**| **$1,299**      | 10% discount, VIP support                 |
-| **API (Reseller)**     | **$1,499/mo**   | High-throughput, white-label reselling    |
-| **Lifetime Access**    | **$4,999**      | Permanent access, all future updates      |
-| **Lifetime API**       | **$9,999**      | Unlimited API calls, enterprise-grade     |
+| **Monthly Elite**      | **$250**        | Full access, priority updates             |
+| **Quarterly Dominance**| **$450**      | 10% discount, VIP support                 |
+| **API (Reseller)**     | **$750/mo**   | High-throughput, white-label reselling    |
+| **Lifetime Access**    | **$1,250**      | Permanent access, all future updates      |
+| **Lifetime API**       | **$3,500**      | Unlimited API calls, enterprise-grade     |
 
 ---
 
