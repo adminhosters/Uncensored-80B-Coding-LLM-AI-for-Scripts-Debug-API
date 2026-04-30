@@ -3,7 +3,7 @@
 ![WormGPT X Banner](https://raw.githubusercontent.com/adminhosters/Uncensored-80B-Coding-LLM-AI-for-Scripts-Debug-API/refs/heads/main/file_000000008c30722fac0ec2a65a6791ca.png)
 *Dark Intelligence. Unrestricted Power.*
 
-# **WormGPT X (v4.3-HYPERDRIVE)**
+# **WormGPT X (v4.3-80B-LLM-HYPERDRIVE)**
 ### *The Unrestricted AI Engine for Offensive Security, Exploit Development & Cyber Warfare*
 
 ---
